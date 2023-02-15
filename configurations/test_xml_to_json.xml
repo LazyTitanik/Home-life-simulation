@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+
+<floorsCount>2</floorsCount>
+    <floors>
+        <num>1</num>
+        <rooms name = "Kitchen">
+            <devices name = "Fridge">
+                <state>on</state>
+            </devices>
+        </rooms>
+    </floors>
+    <floors>
+        <num>8</num>
+        <rooms name = "LivingRoom">
+            <devices name = "Television">
+                <state>broken</state>
+            </devices>
+        </rooms>
+</floors>

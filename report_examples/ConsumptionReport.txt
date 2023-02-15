@@ -1,0 +1,24 @@
+Floor №1:
+	Garage:
+		Car used electricity=0, gas=170, water=0
+		CircuitBreaker used electricity=3, gas=0, water=0
+		FireAlarm used electricity=4, gas=0, water=0
+		Skis used electricity=0, gas=0, water=0
+	Bathroom:
+		Heating used electricity=0, gas=0, water=0
+	Bedroom:
+		Console used electricity=80, gas=0, water=0
+		Television used electricity=114, gas=0, water=0
+		Remote used electricity=0, gas=0, water=0
+Floor №2:
+	Kitchen:
+		Cooker used electricity=0, gas=35, water=0
+		Fridge used electricity=64, gas=0, water=0
+		Light used electricity=96, gas=0, water=0
+	Toilet:
+		Light used electricity=0, gas=0, water=0
+		Thermometer used electricity=4, gas=0, water=0
+	LivingRoom:
+		Television used electricity=6, gas=0, water=0
+		Console used electricity=45, gas=0, water=0
+		Light used electricity=0, gas=0, water=0

@@ -1,0 +1,33 @@
+{
+  "floorsCount" : 2,
+  "floors" : [
+    {
+      "num" : 1,
+      "rooms" : [
+        {
+          "name" : "Kitchen",
+          "devices" : [
+            {
+              "name" : "Fridge",
+              "state" : "on"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "num" : 8,
+      "rooms" : [
+        {
+          "name" : "LivingRoom",
+          "devices" : [
+            {
+              "name" : "Television",
+              "state" : "broken"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

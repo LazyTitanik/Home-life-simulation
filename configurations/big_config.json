@@ -1,0 +1,120 @@
+{
+  "daysCount" : 20,
+  "floors" : [{
+    "num" : 1,
+    "rooms" : [
+      {
+        "name" : "Bedroom",
+        "devices" : [
+          {"name" : "Console"},
+          {"name" : "Television"},
+          {"name" : "Remote"}
+        ]
+      },
+      {
+        "name" : "Garage",
+        "devices" : [
+          {"name" : "Car"},
+          {"name" : "CircuitBreaker"},
+          {"name" : "FireAlarm"},
+          {"name" :  "Skis"}
+        ]
+      },
+      {
+        "name" : "Bathroom",
+        "devices" : [
+          {"name" : "Heating"},
+          {"name" : "Rag"},
+          {"name" : "Bath"}
+        ]
+      }
+    ]
+  },
+  {
+    "num" : 2,
+    "rooms" : [
+      {
+        "name" : "LivingRoom",
+        "devices" : [
+          {"name" : "Television"},
+          {"name" : "Console"},
+          {"name" : "Light"}
+        ]
+      },
+      {
+        "name" : "Kitchen",
+        "devices" : [
+          {"name" : "Cooker"},
+          {"name" : "Fridge"},
+          {"name" : "Washer"},
+          {"name" : "Light"}
+        ]
+      },
+      {
+        "name" : "Toilet",
+        "devices" : [
+          {"name" : "Light"},
+          {"name" : "Thermometer"},
+          {"name" : "Rag"}
+        ]
+      }
+    ]
+  }],
+  "Living" : [
+    {
+      "stuff" : "Father",
+      "name" : "Roberto",
+      "floorNum" : 1,
+      "room" : "Garage"
+    },
+    {
+      "stuff" : "Mother",
+      "name" : "Kristy",
+      "floorNum" : 2,
+      "room" : "Kitchen"
+    },
+    {
+      "stuff" : "Daughter",
+      "name" : "CJ",
+      "floorNum" : 1,
+      "room" : "Bedroom"
+    },
+    {
+      "stuff" : "Daughter",
+      "name" : "Olivia",
+      "floorNum" : 2,
+      "room" : "LivingRoom"
+    },
+    {
+      "stuff" : "Son",
+      "name" : "Joe",
+      "floorNum" : 1,
+      "room" : "Bathroom"
+    },
+    {
+      "stuff" : "Son",
+      "name" : "Steve",
+      "floorNum" : 2,
+      "room" : "Toilet"
+    },
+    {
+      "stuff" : "Cat",
+      "name" : "Murka",
+      "floorNum" : 2,
+      "room" : "LivingRoom"
+    },
+    {
+      "stuff" : "Cat",
+      "name" : "Fluffy",
+      "floorNum" : 2,
+      "room" : "Kitchen"
+    },
+    {
+      "stuff" : "Dog",
+      "name" : "Tobi",
+      "floorNum" : 1,
+      "room" : "Bedroom"
+    }
+  ]
+}
+

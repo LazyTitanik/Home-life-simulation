@@ -1,0 +1,19 @@
+Joe used:
+	Television 1 times
+	Cooker 1 times
+Roberto used:
+	Cooker 1 times
+	Light 18 times
+CJ used:
+	Cooker 1 times
+	Console 1 times
+Olivia used:
+	Cooker 2 times
+	Console 2 times
+	Television 1 times
+Kristy used:
+	Console 1 times
+	Car 2 times
+Steve used:
+	Cooker 1 times
+	Console 1 times

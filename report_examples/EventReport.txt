@@ -1,0 +1,821 @@
+Day №1 has begun. Time to do some shit.
+	CJ is doing sports.
+		CJ is using Skis
+		Olivia turned Television on.
+	Olivia is relaxing
+		Olivia is using Television
+		Joe turned Television on.
+	Joe is relaxing
+		Joe is using Television
+		Steve turned Console on.
+	Steve is relaxing
+		Steve is using Console
+		Murka interacted with Thermometer.
+		Olivia turned Console on.
+	Olivia is relaxing
+		Olivia is using Console
+	Joe is relaxing
+		Joe is using Television
+	Steve is relaxing
+		Steve is using Console
+		The device Light is broken by Murka.
+	Tobi is cuddling with Olivia
+	Fluffy is cuddling with CJ
+	CJ is eating
+		CJ is using Fridge
+		Murka interacted with Console.
+	Fluffy is cuddling with Steve
+	Roberto is eating
+		Roberto turned Cooker on.
+		Roberto is using Cooker
+	CJ is doing sports.
+		CJ is using Skis
+	Olivia is eating
+		Olivia is using Fridge
+		The device Console is broken by Murka.
+		Tobi interacted with Light.
+		Kristy turned Car on.
+		Kristy is using Car
+	Kristy is going for shopping
+	Kristy is driving for shopping
+		Murka interacted with Fridge.
+	Tobi is cuddling with Roberto
+A night has begun. Time to sleep.
+		Roberto turned Light on.
+		The device Light has been repaired by Roberto.
+		The device Console has been repaired by Joe.
+	CJ is doing sports.
+		CJ is using Skis
+		Tobi interacted with FireAlarm.
+Day №2 has begun. Time to do some shit.
+		Roberto switched Light off.
+	CJ is relaxing
+		CJ is using Television
+	Olivia is eating
+		Olivia is using Fridge
+		The device Television is broken by Murka.
+		Tobi interacted with Light.
+	CJ is relaxing
+		CJ is using Console
+		Murka interacted with Light.
+		Tobi interacted with Light.
+		Murka interacted with Thermometer.
+		Tobi interacted with Light.
+		The device Console has been repaired by Roberto.
+		The device Television has been repaired by Joe.
+		Murka interacted with Cooker.
+		Tobi interacted with Heating.
+	Kristy is eating
+		Kristy is using Fridge
+	CJ is eating
+		CJ is using Cooker
+	Olivia is relaxing
+		Olivia is using Television
+		Murka interacted with Heating.
+		The device Heating is broken by Tobi.
+		Kristy is using Car
+	Kristy is going for shopping
+		CJ switched Cooker off.
+	CJ is doing sports.
+		CJ is using Skis
+	Joe is driving for shopping
+	Steve is driving for shopping
+		Murka interacted with CircuitBreaker.
+		Tobi interacted with Remote.
+		The device Television has been repaired by Roberto.
+	Roberto is driving for shopping
+	Kristy is driving for shopping
+	Joe is driving for shopping
+	Steve is driving for shopping
+	Fluffy is cuddling with Roberto
+		Tobi interacted with Light.
+A night has begun. Time to sleep.
+		Roberto turned Light on.
+	Roberto is driving for shopping
+	Olivia is eating
+		Olivia is using Fridge
+		The device Heating has been repaired by Steve.
+		Tobi interacted with CircuitBreaker.
+		Murka interacted with Car.
+	Fluffy is cuddling with Kristy
+		The device Skis is broken by Tobi.
+Day №3 has begun. Time to do some shit.
+		Roberto switched Light off.
+		The device Heating has been repaired by Roberto.
+	Kristy is eating
+		Kristy is using Fridge
+	CJ is relaxing
+		CJ is using Television
+	Olivia is eating
+		Olivia turned Cooker on.
+		Olivia is using Cooker
+		Murka interacted with Light.
+	Tobi is cuddling with Roberto
+	CJ is relaxing
+		CJ is using Console
+		The device Skis has been repaired by Steve.
+		Murka interacted with Television.
+	Fluffy is cuddling with CJ
+		The device CircuitBreaker is broken by Tobi.
+		Olivia switched Cooker off.
+		The device Television is broken by Murka.
+	Roberto is eating
+		Roberto is using Fridge
+	Kristy is relaxing
+		Kristy is using Television
+	CJ is eating
+		CJ turned Cooker on.
+		CJ is using Cooker
+		The device Light is broken by Murka.
+		The device Skis has been repaired by Roberto.
+		Roberto is using Car
+	Roberto is going for shopping
+		CJ switched Cooker off.
+	CJ is doing sports.
+		The device CircuitBreaker has been repaired by Steve.
+		Murka interacted with FireAlarm.
+	Roberto is driving for shopping
+		Murka interacted with Heating.
+A night has begun. Time to sleep.
+		Roberto turned Light on.
+	Kristy is eating
+		Kristy is using Fridge
+	Olivia is eating
+		Olivia turned Cooker on.
+		Olivia is using Cooker
+		The device CircuitBreaker has been repaired by Roberto.
+		The device Television has been repaired by Joe.
+		The device Television has been repaired by Steve.
+		Murka interacted with Skis.
+	Tobi is cuddling with Steve
+		Olivia switched Cooker off.
+	Joe is relaxing
+		Joe is using Television
+	Steve is eating
+		Steve is using Fridge
+	Tobi is cuddling with Kristy
+Day №4 has begun. Time to do some shit.
+		Roberto switched Light off.
+	Roberto is doing sports.
+	Kristy is doing sports.
+	CJ is relaxing
+		CJ is using Console
+		Olivia turned Console on.
+	Olivia is relaxing
+		Olivia is using Console
+	Joe is eating
+		Joe turned Cooker on.
+		Joe is using Cooker
+	Steve is doing sports.
+		Fluffy interacted with Light.
+	CJ is relaxing
+		CJ is using Console
+	Olivia is relaxing
+		Olivia is using Console
+		Murka interacted with Heating.
+		The device Thermometer is broken by Tobi.
+		Murka interacted with Skis.
+		Fluffy interacted with Light.
+	Kristy is eating
+		Kristy is using Fridge
+		Joe switched Cooker off.
+	Steve is eating
+		Steve turned Cooker on.
+		Steve is using Cooker
+	Fluffy is cuddling with Joe
+		Tobi interacted with Light.
+		The device Light has been repaired by Roberto.
+	Kristy is doing sports.
+	CJ is eating
+		CJ is using Fridge
+		The device Thermometer has been repaired by Joe.
+		Steve switched Cooker off.
+	Steve is doing sports.
+		Murka interacted with Light.
+		The device Cooker is broken by Tobi.
+	CJ is doing sports.
+	Olivia is doing sports.
+		Tobi interacted with Console.
+		Murka interacted with Heating.
+		Tobi interacted with Light.
+A night has begun. Time to sleep.
+		Roberto turned Light on.
+		The device Cooker has been repaired by Joe.
+	Joe is eating
+		Joe is using Fridge
+		The device Cooker has been repaired by Steve.
+		Murka interacted with Light.
+	Fluffy is cuddling with Olivia
+		Tobi interacted with Console.
+	Kristy is doing sports.
+	Steve is doing sports.
+		Tobi interacted with Light.
+The electricity has been switched off!!!
+	Roberto is eating
+		The device FireAlarm is broken by Murka.
+		Fluffy interacted with Heating.
+		Tobi interacted with Light.
+Day №5 has begun. Time to do some shit.
+		Roberto switched Light off.
+		The device Thermometer has been repaired by Roberto.
+	Roberto is doing sports.
+	Kristy is eating
+		Kristy is using Fridge
+	Steve is relaxing
+		Steve is using Console
+	Murka is cuddling with CJ
+		The device Heating is broken by Fluffy.
+	Murka is cuddling with CJ
+		The device FireAlarm has been repaired by Joe.
+		The device FireAlarm has been repaired by Steve.
+	Roberto is eating
+	Steve is relaxing
+		Steve is using Console
+		Tobi interacted with Light.
+	Roberto is doing sports.
+	Olivia is eating
+		Olivia is using Fridge
+		The device Skis is broken by Fluffy.
+		Olivia is using Car
+	Olivia is going for shopping
+		The device Heating has been repaired by Joe.
+		The device Heating has been repaired by Steve.
+	Olivia is driving for shopping
+A night has begun. Time to sleep.
+		Roberto turned Light on.
+	Kristy is eating
+		Kristy is using Fridge
+	CJ is eating
+	Roberto is doing sports.
+		The device Skis has been repaired by Steve.
+	Steve is doing sports.
+	Murka is cuddling with CJ
+		Fluffy interacted with CircuitBreaker.
+	Tobi is cuddling with CJ
+Day №6 has begun. Time to do some shit.
+		Roberto switched Light off.
+	Roberto is eating
+		Roberto is using Fridge
+	Kristy is eating
+	Joe is relaxing
+		Joe is using Console
+	Steve is relaxing
+		Steve is using Console
+		Tobi interacted with Car.
+		The device Skis has been repaired by Roberto.
+	Joe is relaxing
+		Joe is using Console
+	Steve is relaxing
+		Steve is using Console
+		Murka interacted with CircuitBreaker.
+	Fluffy is cuddling with Joe
+		Murka interacted with Skis.
+		Fluffy interacted with Light.
+	Olivia is eating
+		Olivia is using Fridge
+	Joe is eating
+		Tobi interacted with Car.
+		Olivia is using Car
+	Olivia is going for shopping
+	Joe is doing sports.
+	Steve is doing sports.
+		Murka interacted with CircuitBreaker.
+	Olivia is driving for shopping
+		Murka interacted with Thermometer.
+		Tobi interacted with Remote.
+A night has begun. Time to sleep.
+		The device Light is broken by Roberto.
+	Roberto is eating
+		Roberto is using Fridge
+	Kristy is eating
+		Murka interacted with Console.
+		Tobi interacted with CircuitBreaker.
+		Tobi interacted with Console.
+		The device Light has been repaired by Joe.
+Day №7 has begun. Time to do some shit.
+	Roberto is doing sports.
+	Kristy is relaxing
+		Kristy is using Console
+	CJ is relaxing
+		CJ is using Console
+	Olivia is doing sports.
+	Joe is doing sports.
+	Steve is doing sports.
+		Murka interacted with Fridge.
+	Fluffy is cuddling with Olivia
+	Kristy is relaxing
+		Kristy is using Console
+	CJ is relaxing
+		CJ is using Console
+		The device Light has been repaired by Roberto.
+		Murka interacted with Light.
+	Roberto is eating
+		Roberto is using Fridge
+	Olivia is eating
+	Tobi is cuddling with Joe
+	Roberto is doing sports.
+	Kristy is eating
+		Kristy is using Fridge
+	Olivia is doing sports.
+	Joe is doing sports.
+	Steve is doing sports.
+		Murka interacted with Light.
+	Tobi is cuddling with Roberto
+	Kristy is doing sports.
+	CJ is doing sports.
+		Fluffy interacted with Remote.
+	Tobi is cuddling with Steve
+	Fluffy is cuddling with Kristy
+A night has begun. Time to sleep.
+		Roberto turned Light on.
+		Tobi interacted with Car.
+	Roberto is doing sports.
+	Olivia is doing sports.
+	Joe is doing sports.
+	Steve is doing sports.
+	Fluffy is cuddling with Joe
+		Murka interacted with Light.
+Day №8 has begun. Time to do some shit.
+		Roberto switched Light off.
+	Roberto is doing sports.
+	CJ is relaxing
+		CJ is using Console
+	Joe is doing sports.
+	Steve is relaxing
+		Steve is using Console
+	CJ is relaxing
+		CJ is using Console
+	Steve is relaxing
+		Steve is using Console
+	Murka is cuddling with Joe
+	Murka is cuddling with Steve
+	Roberto is eating
+		Roberto is using Fridge
+	Joe is eating
+	Roberto is doing sports.
+	Kristy is eating
+		Kristy is using Fridge
+	Joe is doing sports.
+	Steve is eating
+		Kristy is using Car
+	Kristy is going for shopping
+	CJ is doing sports.
+	Olivia is driving for shopping
+	Steve is doing sports.
+		Fluffy interacted with CircuitBreaker.
+		Tobi interacted with Skis.
+	Kristy is driving for shopping
+	Olivia is driving for shopping
+	Murka is cuddling with Joe
+	Tobi is cuddling with Kristy
+A night has begun. Time to sleep.
+		Roberto turned Light on.
+		Fluffy interacted with Remote.
+	Tobi is cuddling with Kristy
+	Roberto is doing sports.
+	Joe is doing sports.
+		Fluffy interacted with CircuitBreaker.
+		Tobi interacted with CircuitBreaker.
+Day №9 has begun. Time to do some shit.
+		Roberto switched Light off.
+	Roberto is doing sports.
+	CJ is eating
+		CJ is using Fridge
+	Joe is relaxing
+		Joe is using Console
+	Steve is relaxing
+		Steve is using Console
+		Murka interacted with Thermometer.
+		Fluffy interacted with Light.
+		Tobi interacted with Car.
+	Joe is relaxing
+		Joe is using Console
+	Steve is relaxing
+		Steve is using Console
+		The device Thermometer is broken by Fluffy.
+		Murka interacted with Light.
+		Fluffy interacted with Light.
+		Tobi interacted with Remote.
+	Roberto is eating
+		Tobi interacted with Console.
+	Roberto is doing sports.
+	Kristy is eating
+		Kristy is using Fridge
+	Olivia is eating
+		The device Thermometer has been repaired by Steve.
+		The device Light is broken by Fluffy.
+		The device Remote is broken by Tobi.
+		Kristy is using Car
+	Kristy is going for shopping
+	Olivia is driving for shopping
+		Tobi interacted with Fridge.
+	Kristy is driving for shopping
+	Olivia is driving for shopping
+	Murka is cuddling with Olivia
+		Tobi interacted with Fridge.
+A night has begun. Time to sleep.
+		Roberto turned Light on.
+		The device Thermometer has been repaired by Roberto.
+	CJ is eating
+		CJ is using Fridge
+		The device Light has been repaired by Joe.
+		The device Light has been repaired by Steve.
+		The device Thermometer is broken by Fluffy.
+		Tobi interacted with Console.
+	Roberto is doing sports.
+	Murka is cuddling with Olivia
+		Fluffy interacted with Console.
+		Fluffy interacted with Console.
+		Tobi interacted with CircuitBreaker.
+Day №10 has begun. Time to do some shit.
+		Roberto switched Light off.
+	Roberto is eating
+		Roberto is using Fridge
+	CJ is relaxing
+		CJ is using Console
+	Olivia is relaxing
+		Olivia is using Console
+		Murka interacted with Car.
+		Fluffy interacted with Light.
+		Tobi interacted with Car.
+	CJ is relaxing
+		CJ is using Console
+	Olivia is relaxing
+		Olivia is using Console
+	Joe is eating
+		Tobi interacted with Car.
+	Murka is cuddling with Steve
+		The device Remote has been repaired by Roberto.
+		The device Thermometer has been repaired by Steve.
+	Murka is cuddling with Olivia
+		Fluffy interacted with Console.
+	Tobi is cuddling with Joe
+	Murka is cuddling with Joe
+		The device Remote is broken by Fluffy.
+		Kristy is using Car
+	Kristy is going for shopping
+	CJ is doing sports.
+	Olivia is doing sports.
+	Murka is cuddling with Steve
+		Fluffy interacted with Light.
+		The device Remote has been repaired by Roberto.
+	Kristy is driving for shopping
+A night has begun. Time to sleep.
+		Roberto turned Light on.
+	Joe is eating
+		The device Thermometer has been repaired by Roberto.
+	Tobi is cuddling with Kristy
+Day №11 has begun. Time to do some shit.
+		Roberto switched Light off.
+	Kristy is doing sports.
+	CJ is relaxing
+		CJ is using Console
+	Olivia is doing sports.
+	Steve is doing sports.
+		Murka interacted with Light.
+		Fluffy interacted with Car.
+	Tobi is cuddling with Olivia
+	CJ is relaxing
+		CJ is using Console
+		Murka interacted with Console.
+	Fluffy is cuddling with Joe
+	Tobi is cuddling with Roberto
+	Kristy is eating
+		Kristy is using Fridge
+	Steve is eating
+	Kristy is doing sports.
+	CJ is eating
+		CJ is using Fridge
+	Olivia is doing sports.
+	Steve is doing sports.
+		Roberto is using Car
+	Roberto is going for shopping
+	CJ is doing sports.
+	Roberto is driving for shopping
+		Fluffy interacted with Remote.
+A night has begun. Time to sleep.
+		Roberto turned Light on.
+	Joe is eating
+		Joe is using Fridge
+		Murka interacted with Light.
+		Fluffy interacted with Remote.
+	Kristy is doing sports.
+	Olivia is doing sports.
+	Steve is doing sports.
+	Fluffy is cuddling with Kristy
+Day №12 has begun. Time to do some shit.
+		Roberto switched Light off.
+	Roberto is doing sports.
+	Kristy is eating
+		Kristy is using Fridge
+	CJ is doing sports.
+	Olivia is eating
+		Tobi interacted with CircuitBreaker.
+	Murka is cuddling with Kristy
+		The device Remote is broken by Tobi.
+	Murka is cuddling with CJ
+	CJ is eating
+		CJ is using Fridge
+		The device Skis is broken by Murka.
+	Roberto is doing sports.
+	CJ is doing sports.
+		The device Remote has been repaired by Joe.
+		The device Remote has been repaired by Steve.
+	Murka is cuddling with CJ
+		Tobi interacted with Light.
+		Tobi interacted with CircuitBreaker.
+A night has begun. Time to sleep.
+		Roberto turned Light on.
+	Kristy is eating
+		Kristy is using Fridge
+	Olivia is eating
+		The device Skis has been repaired by Joe.
+		The device Skis has been repaired by Steve.
+	Roberto is doing sports.
+	CJ is doing sports.
+		Tobi interacted with CircuitBreaker.
+Day №13 has begun. Time to do some shit.
+		Roberto switched Light off.
+	Roberto is relaxing
+		Roberto is using Console
+	CJ is eating
+		CJ is using Fridge
+	Olivia is relaxing
+		Olivia is using Console
+	Steve is doing sports.
+	Roberto is relaxing
+		Roberto is using Console
+	Olivia is relaxing
+		Olivia is using Console
+		Tobi interacted with Thermometer.
+	Steve is eating
+		Steve is using Fridge
+		Tobi interacted with Console.
+	Roberto is eating
+	Steve is doing sports.
+	Roberto is doing sports.
+		Kristy is using Car
+	Kristy is going for shopping
+	Olivia is doing sports.
+	Joe is driving for shopping
+	Kristy is driving for shopping
+	Joe is driving for shopping
+	Murka is cuddling with Olivia
+		The device Console is broken by Tobi.
+A night has begun. Time to sleep.
+		Roberto turned Light on.
+	CJ is eating
+		CJ is using Fridge
+	Murka is cuddling with Kristy
+	Steve is doing sports.
+	Fluffy is cuddling with Roberto
+		Tobi interacted with Light.
+		The device Console has been repaired by Steve.
+		The device Console is broken by Tobi.
+Day №14 has begun. Time to do some shit.
+		Roberto switched Light off.
+	Roberto is doing sports.
+	Kristy is eating
+		Kristy is using Fridge
+	CJ is doing sports.
+	Olivia is eating
+	Tobi is cuddling with Kristy
+		Murka interacted with Light.
+		The device Console has been repaired by Roberto.
+		The device Console has been repaired by Joe.
+		The device Console has been repaired by Steve.
+		Murka interacted with CircuitBreaker.
+	CJ is eating
+		CJ is using Fridge
+		Murka interacted with Thermometer.
+	Roberto is doing sports.
+	CJ is doing sports.
+		Murka interacted with Light.
+	Fluffy is cuddling with Joe
+		Murka interacted with Console.
+A night has begun. Time to sleep.
+		Roberto turned Light on.
+	Kristy is eating
+		Kristy is using Fridge
+	Olivia is eating
+		The device Light is broken by Murka.
+	Roberto is doing sports.
+	CJ is doing sports.
+	Fluffy is cuddling with Roberto
+Day №15 has begun. Time to do some shit.
+	Kristy is doing sports.
+		CJ turned Console on.
+	CJ is relaxing
+		CJ is using Console
+	Olivia is doing sports.
+		The device Light has been repaired by Joe.
+	Steve is eating
+		Steve is using Fridge
+		Murka interacted with Thermometer.
+	CJ is relaxing
+		CJ is using Console
+	Fluffy is cuddling with CJ
+		The device Thermometer is broken by Tobi.
+		The device Light has been repaired by Roberto.
+	Kristy is eating
+	Roberto is eating
+		Roberto is using Fridge
+	Kristy is doing sports.
+	CJ is eating
+	Olivia is doing sports.
+	Tobi is cuddling with CJ
+		Roberto is using Car
+	Roberto is going for shopping
+	CJ is doing sports.
+	Joe is driving for shopping
+		The device Thermometer has been repaired by Steve.
+		Murka interacted with Light.
+	Roberto is driving for shopping
+	Joe is driving for shopping
+		Tobi interacted with Light.
+A night has begun. Time to sleep.
+		Roberto turned Light on.
+	Steve is eating
+		Steve is using Fridge
+		The device Thermometer has been repaired by Roberto.
+	Kristy is doing sports.
+	Olivia is doing sports.
+		The device Light is broken by Murka.
+		Fluffy interacted with Car.
+	Tobi is cuddling with Roberto
+Day №16 has begun. Time to do some shit.
+		Roberto switched Light off.
+	Roberto is relaxing
+		Roberto is using Console
+	Olivia is doing sports.
+	Steve is doing sports.
+	Tobi is cuddling with CJ
+	Roberto is relaxing
+		Roberto is using Console
+		The device Light has been repaired by Joe.
+		The device Light has been repaired by Steve.
+	Tobi is cuddling with Joe
+	Olivia is eating
+		Olivia is using Fridge
+	Steve is eating
+	Murka is cuddling with Joe
+		The device Thermometer is broken by Fluffy.
+	Olivia is doing sports.
+	Joe is eating
+		Joe is using Fridge
+	Steve is doing sports.
+		Murka interacted with Console.
+	Roberto is doing sports.
+	Kristy is doing sports.
+	CJ is doing sports.
+	Joe is doing sports.
+		The device Fridge is broken by Tobi.
+		The device Thermometer has been repaired by Joe.
+	Tobi is cuddling with Joe
+A night has begun. Time to sleep.
+		Roberto turned Light on.
+	Olivia is doing sports.
+	Tobi is cuddling with Joe
+		The device Thermometer has been repaired by Roberto.
+		The device Fridge has been repaired by Joe.
+		The device Fridge has been repaired by Steve.
+	Steve is doing sports.
+Day №17 has begun. Time to do some shit.
+		Roberto switched Light off.
+	Roberto is eating
+	Kristy is doing sports.
+	Olivia is relaxing
+		Olivia is using Console
+		Murka interacted with Light.
+		Tobi interacted with Car.
+	Olivia is relaxing
+		Olivia is using Console
+		The device Thermometer is broken by Tobi.
+		Murka interacted with Light.
+	Kristy is eating
+		The device Light is broken by Murka.
+	Kristy is doing sports.
+	CJ is eating
+	Olivia is eating
+		The device Thermometer has been repaired by Joe.
+		The device Thermometer has been repaired by Steve.
+		Murka interacted with Console.
+		CJ is using Car
+	CJ is going for shopping
+	Olivia is doing sports.
+	Joe is eating
+	Steve is eating
+		Fluffy interacted with Console.
+		Tobi interacted with Console.
+	CJ is driving for shopping
+	Joe is doing sports.
+	Steve is driving for shopping
+A night has begun. Time to sleep.
+	Roberto is eating
+		The device Light has been repaired by Steve.
+	Steve is driving for shopping
+	Kristy is doing sports.
+		Tobi interacted with CircuitBreaker.
+Day №18 has begun. Time to do some shit.
+		The device Light has been repaired by Roberto.
+	Roberto is doing sports.
+	Kristy is relaxing
+		Kristy is using Console
+	CJ is doing sports.
+	Olivia is eating
+	Joe is doing sports.
+	Steve is doing sports.
+		Fluffy interacted with Car.
+	Kristy is relaxing
+		Kristy is using Console
+		Fluffy interacted with CircuitBreaker.
+		Tobi interacted with CircuitBreaker.
+	Roberto is eating
+	Joe is eating
+		The device Console is broken by Fluffy.
+		The device Car is broken by Tobi.
+	Roberto is doing sports.
+	Kristy is eating
+	CJ is doing sports.
+		Tobi interacted with CircuitBreaker.
+	Kristy is doing sports.
+		Murka interacted with Light.
+		The device Console has been repaired by Joe.
+		Murka interacted with CircuitBreaker.
+A night has begun. Time to sleep.
+		Roberto turned Light on.
+	Olivia is eating
+	Joe is doing sports.
+	Steve is doing sports.
+	Roberto is doing sports.
+	CJ is doing sports.
+		Murka interacted with Light.
+		Tobi interacted with Light.
+		The device Console has been repaired by Roberto.
+		The device Car has been repaired by Steve.
+Day №19 has begun. Time to do some shit.
+		Roberto switched Light off.
+	Roberto is eating
+		Kristy turned Console on.
+	Kristy is relaxing
+		Kristy is using Console
+	CJ is eating
+	Olivia is doing sports.
+	Murka is cuddling with Joe
+	Fluffy is cuddling with Steve
+		Tobi interacted with CircuitBreaker.
+	Kristy is relaxing
+		Kristy is using Console
+	Fluffy is cuddling with Olivia
+		The device Car has been repaired by Roberto.
+	Olivia is eating
+	Fluffy is cuddling with Joe
+	Kristy is eating
+	Olivia is doing sports.
+	Joe is eating
+		The device CircuitBreaker is broken by Tobi.
+	Kristy is doing sports.
+	Joe is doing sports.
+	Steve is doing sports.
+		The device Car is broken by Tobi.
+A night has begun. Time to sleep.
+		Roberto turned Light on.
+	Roberto is eating
+	CJ is eating
+		The device CircuitBreaker has been repaired by Joe.
+		The device CircuitBreaker has been repaired by Steve.
+	Fluffy is cuddling with CJ
+	Olivia is doing sports.
+	Fluffy is cuddling with Joe
+Day №20 has begun. Time to do some shit.
+		Roberto switched Light off.
+	Roberto is doing sports.
+	CJ is relaxing
+		CJ is using Console
+	Olivia is eating
+	Joe is doing sports.
+	Steve is eating
+		Murka interacted with Light.
+	Tobi is cuddling with Kristy
+	CJ is relaxing
+		CJ is using Console
+		The device Car has been repaired by Roberto.
+	Joe is eating
+		Fluffy interacted with Console.
+	Tobi is cuddling with Steve
+	Kristy is eating
+	Joe is doing sports.
+		Kristy turned Car on.
+		Kristy is using Car
+	Kristy is going for shopping
+	CJ is doing sports.
+	Roberto is eating
+	Kristy is driving for shopping
+	Tobi is cuddling with CJ
+A night has begun. Time to sleep.
+		Roberto turned Light on.
+	Roberto is doing sports.
+	Olivia is eating
+	Steve is eating
+	Tobi is cuddling with Olivia
+	Joe is doing sports.
